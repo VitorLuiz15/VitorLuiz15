@@ -1,16 +1,7 @@
-### olá 👋
+Vitor — Estudante de Sistemas de Informação, cursando o 1º semestre.
+Foco em desenvolvimento Back-end com Java.
 
-<!--
-**VitorLuiz15/VitorLuiz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente construindo projetos pessoais para aplicar e consolidar o que estou aprendendo.
+Os repositórios aqui refletem minha evolução desde o início do curso quanto meus projetos pessoais.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on STUDENT
-- 🌱 I’m currently learning JAVA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: EMAIL: vitorluizboy45@gmail.com
-- 😄 Pronouns: ele/delas
-- ⚡ Fun fact: bom em todos os esportes
--->
+Buscando minha primeira oportunidade profissional na área de desenvolvimento.

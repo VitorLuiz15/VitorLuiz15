@@ -1,4 +1,4 @@
-Vitor — Estudante de Sistemas de Informação, cursando o º semestre.
+Vitor — Estudante de Sistemas de Informação, cursando o 2º semestre.
 Foco em desenvolvimento Back-end com Java.
 
 Atualmente construindo projetos pessoais para aplicar e consolidar o que estou aprendendo.

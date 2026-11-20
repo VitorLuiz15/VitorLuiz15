@@ -44,7 +44,7 @@
 ##  Contato
 
 <p>
-  <a href="https://github.com/VitorLuiz15">
+  <a href="www.linkedin.com/in/vitor-luiz-445262275">
     <img src="https://img.shields.io/badge/GitHub-VitorLuiz15-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <!-- Quando quiser, adicione seu LinkedIn:

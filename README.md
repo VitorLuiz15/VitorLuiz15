@@ -44,11 +44,10 @@
 ##  Contato
 
 <p>
-  <a href="www.linkedin.com/in/vitor-luiz-445262275">
-    <img src="https://img.shields.io/badge/GitHub-VitorLuiz15-181717?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/vitor-luiz-445262275">
+    <img src="https://img.shields.io/badge/LinkedIn-Vitor_Luiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Quando quiser, adicione seu LinkedIn:
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  <a href="https://github.com/VitorLuiz15">
+    <img src="https://img.shields.io/badge/GitHub-VitorLuiz15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
